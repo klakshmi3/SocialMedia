@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App]
 
+##FRONTEND PART: (https://github.com/klakshmi3/reactsocial.git)
+
 ## Available Scripts
 
 In the project directory, you can run:
